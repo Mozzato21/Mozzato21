@@ -1,20 +1,19 @@
-# Olá, eu sou o Alexandre! 👋
+# Olá, eu sou o Arthur! 👋
 
 ## Quem sou eu
-Estudante de Ciências da Computação na Uniritter, cursando desde 2025. Apaixonado por tecnologia e sempre buscando aprender coisas novas.
+Estudante de Ciências da Computação na Cruzeiro do Sul, cursando desde 2022. Apaixonado por tecnologia e sempre buscando aprender coisas novas.
 
 ## 🛠 Habilidades
-- **Linguagens:** Java, Python (em desenvolvimento)
-- **Banco de Dados:** SQL Server
-- **Ferramentas:** Git, GitHub, Linux, Windows
+- **Linguagens:** Python, JAVA e C
+- **Banco de Dados:** MySQL
+- **Ferramentas:** GitHub e Windows
 
 ## 📫 Como me encontrar
-- **Email:** xandifu@gmail.com
-- **GitHub:** [AlexandreFoppa](https://github.com/AlexandreFoppa)
-- **LinkedIn:** [Alexandre Foppa Ungaretti](https://www.linkedin.com/in/alexandre-foppa-ungaretti/)
+- **GitHub:** [Mozzato21](https://github.com/Mozzato21)
+- **LinkedIn:** [Arthur Schmit Mozzato](https://www.linkedin.com/in/arthur-schmit-mozzato/)
 
 ## 💡 Em construção
 Este perfil está em constante evolução. Estou trabalhando em projetos para construir meu portfólio. Fique à vontade para explorar meus repositórios!
 
 ---
-*Última atualização: 2026-03-16*
+*Última atualização: 2026-03-17*
